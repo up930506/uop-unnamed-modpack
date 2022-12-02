@@ -1,0 +1,13 @@
+name = "Extra Utilities Reborn"
+filename = "extra-utilities-reborn-1.7.4-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5685ded2226b5b5f1906c26fafea4909da459921"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4030680
+project-id = 656254

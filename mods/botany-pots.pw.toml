@@ -1,0 +1,13 @@
+name = "Botany Pots"
+filename = "BotanyPots-Forge-1.18.2-8.0.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae9d57eacd60b1e058514f7cc8f7ceffd7e046f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4120253
+project-id = 353928

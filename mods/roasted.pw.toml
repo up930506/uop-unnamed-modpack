@@ -1,0 +1,13 @@
+name = "Roasted"
+filename = "roasted-1.18.2-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1fff0f7170dc368ed83ca9495a1d145c32924509"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4120470
+project-id = 518285

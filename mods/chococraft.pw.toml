@@ -1,0 +1,13 @@
+name = "ChocoCraft"
+filename = "chococraft-1.18.2-0.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66ba91973a864b163925a33e689f5ae1b990581e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4007526
+project-id = 225280

@@ -1,0 +1,13 @@
+name = "Quartz"
+filename = "quartz-1.18.2-0.0.0-beta.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e4f24d4437f8e6865fbc58cf7b1efa492a63a6f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3809944
+project-id = 552262

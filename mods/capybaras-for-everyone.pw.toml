@@ -1,0 +1,13 @@
+name = "Capybaras for everyone"
+filename = "Capybaras for everyone.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e969854366def8e9422092dd46279805539ebb62"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4032075
+project-id = 689429

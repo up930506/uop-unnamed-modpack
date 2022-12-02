@@ -1,0 +1,13 @@
+name = "UoP Unnamed Modpack"
+author = "Will"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6a3fac750582ebfb7b9aead72e10bf021869f657f88c61119b75118256edfaff"
+
+[versions]
+forge = "40.1.85"
+minecraft = "1.18.2"
