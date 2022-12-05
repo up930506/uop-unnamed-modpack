@@ -31,6 +31,7 @@ Carry On | carryon-1.18.2-1.17.0.8.jar | 379256bc458f5ca20b4c3d1d5a89fac3f913ef9
 CC: Tweaked | cc-tweaked-1.18.2-1.101.0.jar | 13c71ba1538063047bd3d75b93ba52c563588a7e (sha1)
 Chipped | chipped-2.0.0-forge.jar | d3f7356331552dd01756c11d186469872fcce3cb (sha1)
 ChocoCraft | chococraft-1.18.2-0.5.2.jar | 66ba91973a864b163925a33e689f5ae1b990581e (sha1)
+Chunky (Forge) | Chunky-1.2.164.jar | 7b5b160f9378af5218bf22c9ec61d623a65e4eae (sha1)
 Citadel | citadel-1.11.3-1.18.2.jar | ca5d46c752f10dae0d77d41a52527f6eacd1895e (sha1)
 Clumps | Clumps-forge-1.18.2-8.0.0+15.jar | fa3a5ce1676d51a71f555d627477b2aa1ec40892 (sha1)
 CodeChicken Lib 1.8.+ | CodeChickenLib-1.18.2-4.1.2.475-universal.jar | b2c0f29b52de1083e9221276661334224bcc2bab (sha1)

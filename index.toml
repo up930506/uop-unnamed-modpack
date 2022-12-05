@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "50319525a0b011041e7892f7784ce2a8e9cbb78b9347824feca1687aba75cd56"
+hash = "b5bcfc8af78eaf918f43463dd295c29e5804033a599adefb0f7acb237332721c"
 
 [[files]]
 file = "docs/mods.md"
@@ -156,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/chococraft.pw.toml"
 hash = "fb89d213098a9305bfa24fe1684d51b16675d98b7ab8a61fa9cce42665483b31"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "e291d2abb55ebce5c6720fc9157fab57fcd3619de0ee40397ab256185d26097a"
 metafile = true
 
 [[files]]
