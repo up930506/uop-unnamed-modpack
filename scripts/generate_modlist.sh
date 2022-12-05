@@ -4,7 +4,7 @@ cat << EOF > mods.md
 Name | Local file | Hash
 --- | --- | ---
 EOF
-for mod in ../mods/*.toml; do
+for mod in ../modpack/mods/*.toml; do
   mod=$(cat "${mod}")
   mod_name=$(echo "${mod}" | sed -nr "s/^name = \"(.*)\"$/\1/p")
   mod_filename=$(echo "${mod}" | sed -nr "s/^filename = \"(.*)\"$/\1/p")

@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "b5bcfc8af78eaf918f43463dd295c29e5804033a599adefb0f7acb237332721c"
-
-[[files]]
-file = "docs/mods.md"
-hash = "b34900fafd1850c943b8e922a167881e7a3198590c1767730c183e52881daf2b"
-
-[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "629e07e5a8dbe4e5323fed22acf1f7ccaec089ecd5904f5724caf029ba4aa748"
 metafile = true
@@ -822,7 +814,3 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "18509e12bcbe9da72660134894d17610b33e76c3212a107b8800e416fb94659f"
 metafile = true
-
-[[files]]
-file = "scripts/generate_modlist.sh"
-hash = "d0d86bedc0c35de8018493c64045f05c310314bc5f107a227199e7426fd90720"
