@@ -11,6 +11,11 @@ hash = "7a35e6905d6ad83b8101443bf348748a36d7755b277dae6e017ff9f1286fee0d"
 metafile = true
 
 [[files]]
+file = "mods/ae2-things-forge.pw.toml"
+hash = "5a4bdc3f437f33059f4008085f8ba11773906bad0bd1fa861b9dc48739a23c48"
+metafile = true
+
+[[files]]
 file = "mods/aeinfinitybooster.pw.toml"
 hash = "6049ce25c35da23208c19374bc6870064144df1f7aabac29f0115af03c8ad9e8"
 metafile = true

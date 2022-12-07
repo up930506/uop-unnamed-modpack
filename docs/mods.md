@@ -3,6 +3,7 @@ Name | Local file | Hash
 --- | --- | ---
 Advanced Peripherals | AdvancedPeripherals-0.7.20r.jar | 5637a4c131aa9b583bd4245611aefadc5953f837 (sha1)
 Advancement Plaques | AdvancementPlaques-1.18.2-1.4.5.1.jar | b1f30856926616605c16e5eb8b7dda845d39a104 (sha1)
+AE2 Things [Forge] | AE2-Things-1.0.4.jar | ddf82d5a3b2a603d69fb4599d6755ff28c362ec6 (sha1)
 AEInfinityBooster | AEInfinityBooster-1.18.2-1.1.0+9.jar | 1f915abe753d53cb425439d271c8ac212ce410e3 (sha1)
 Akashic Tome | AkashicTome-1.5-20.jar | 4aa94016e7b13dcd6fe9dc5bb6e23fa0946f36b2 (sha1)
 Apotheosis | Apotheosis-1.18.2-5.7.6.jar | 3b90c28eb25fc00cbf98149019c8619689965e1a (sha1)
