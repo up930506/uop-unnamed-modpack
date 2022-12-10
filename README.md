@@ -3,7 +3,7 @@ Better name coming soon...
 ## [Mods](docs/mods.md)
 ## Installation
 ### Using CurseForge
-Download [curseforge.zip](https://github.com/up930506/uop-unnamed-modpack/raw/main/curseforge.zip) and import it into CurseForge:
+Download [curseforge-client.zip](https://github.com/up930506/uop-unnamed-modpack/raw/main/curseforge-client.zip) and import it into CurseForge:
 1. Open CurseForge.
 2. Select Minecraft as your game.
 3. Click "Create Custom Profile".
