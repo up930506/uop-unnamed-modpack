@@ -476,6 +476,11 @@ hash = "9f33ad46094198693346e70eb7311d195c3b5adfa54c82c6b9f3116403b37ee3"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "c24990ef2c46b6162bcc863b1de0e122cbb03a9d9a0d31e00f1b3ce3508b6e0d"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "f0684891c05b13f481c137fd14a77a41614bc37e226af07e1ad42cb85221cc90"
 metafile = true
@@ -618,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/reauth.pw.toml"
 hash = "8d58265c582e12173f24f8c5e488173c30b8fa36006e346fc3470f20ce000a8b"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "ce2fdaac17c20454cbcd0f1069f193d1f2b60bfeb56ce4e1c3314014930aa39a"
 metafile = true
 
 [[files]]
@@ -803,6 +813,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "da6bb4433e790711fafc42b979b944b253dcc3df92f44cfd7a564294ee0857cf"
+metafile = true
+
+[[files]]
+file = "mods/xnet.pw.toml"
+hash = "2abb92642de45bf05dcfe527ff63fe3d21bf6fa760ee257f8154a2902cd55c8f"
 metafile = true
 
 [[files]]
