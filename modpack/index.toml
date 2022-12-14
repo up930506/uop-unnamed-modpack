@@ -29,8 +29,16 @@ file = "config/darkmodeeverywhere-client.toml"
 hash = "c92ca23b01e33e93ddc6bb32656247c86953ec633449bd9265bc53d3920222df"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "22f2d324c1d217f262c1bf2362d53c1e922a03cb9550896b810bf0b0672b90ab"
+
+[[files]]
 file = "config/emojiful-client.toml"
 hash = "4b2390b4126d631addf30cf7f832c2936e461a492705a88114bf3fcf4ff11d14"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "612a5e1dd56c9a73758d2e34cabd192440aff9162f95edbf719809d7e052aead"
 
 [[files]]
 file = "config/fancymenu/customization/title.txt"
