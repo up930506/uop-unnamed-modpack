@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "0ef23181c0f887a66eb588f9976b9aa3a756adf6903beb6ac9be9f62fd10d268"
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "629e07e5a8dbe4e5323fed22acf1f7ccaec089ecd5904f5724caf029ba4aa748"
 metafile = true

@@ -1,0 +1,13 @@
+
+#General settings
+[general]
+	#The CurseForge project ID for the modpack
+	#Range: > 0
+	modpackProjectID = 729176
+	#The name of the modpack
+	modpackName = "The Pandora's Box Pack"
+	#The version of the modpack
+	modpackVersion = "v0.0.3"
+	#Use the metadata.json to determine the modpack version
+	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
+	useMetadata = false
