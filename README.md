@@ -1,5 +1,5 @@
-# UoP Unnamed Modpack
-Better name coming soon...
+# The Pandora's Box Pack
+A pack containing all the mods you could ask for! Explore new dimensions, grow new crops, fight new bosses!
 ## [Mods](docs/mods.md)
 ## Installation
 ### Using CurseForge
