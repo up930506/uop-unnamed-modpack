@@ -1,8 +1,40 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Advancedperipherals/peripherals.toml"
+hash = "ca83103d446f6aec20ffde210fb8d27a73006c1750599b29da775decb12aac3c"
+
+[[files]]
+file = "config/Mekanism/client.toml"
+hash = "da0ef62b21ce40e3d0b829fa93e16ccbf35c1e52e63bd9613388f714d2dcbf28"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "062d94e00291ea6adef1aa180ef005eed31398a7c97dea96b4d1174b9a0e0fcc"
+
+[[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "169b7d5e5b5a5a6a13201d532730e8632a6868e6e82739e6418484cc075d8de1"
+
+[[files]]
+file = "config/appliedenergistics2/common.json"
+hash = "d174550d87cce5e9d7be5904a19d891961ac7d61e721c84d0764cfe1ef542c99"
+
+[[files]]
 file = "config/bcc-common.toml"
 hash = "0ef23181c0f887a66eb588f9976b9aa3a756adf6903beb6ac9be9f62fd10d268"
+
+[[files]]
+file = "config/darkmodeeverywhere-client.toml"
+hash = "c92ca23b01e33e93ddc6bb32656247c86953ec633449bd9265bc53d3920222df"
+
+[[files]]
+file = "config/emojiful-client.toml"
+hash = "4b2390b4126d631addf30cf7f832c2936e461a492705a88114bf3fcf4ff11d14"
+
+[[files]]
+file = "config/fancymenu/customization/title.txt"
+hash = "d7539df291f8db6857f4f9915c34de3b7c881d2666e76052d4c2b25e8872f8f2"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
@@ -340,6 +372,11 @@ hash = "2047bfc9f05d71ca26602f0ce473edc71da087a44ce6a69e31bc552d13331ae7"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu-forge.pw.toml"
+hash = "c86972d197e23c7edd0ce472b5bc066bfe774990854dab730bf209b69d8593dd"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "546cf7bd63e02041e8d159ecc5326fde952aaeaf0d8517b5eb5f552a84fcf12a"
 metafile = true
@@ -412,6 +449,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "fc97acae22289f2966f8745901b9400f10ff69fe5481d26ea8181235a3f93d83"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "51d72f9126ded6e791bd2cc85c1d483a6179606f77cdd57ebbcbd09eb2075f68"
 metafile = true
 
 [[files]]
