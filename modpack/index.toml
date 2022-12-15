@@ -238,6 +238,11 @@ hash = "ea2263383ce561da37933d0b9cbfe48b677d0ac4d817f701e71223e0c1944baf"
 metafile = true
 
 [[files]]
+file = "mods/compact-machines.pw.toml"
+hash = "7fa6964ecd8a0410daacb753b9985ba1edb4f1891ef007f3e723bc0d8d04e82d"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "15405c43e9dade209198ecb2907944c2c5ada78dda2e680c0ecd44b494ae2671"
 metafile = true

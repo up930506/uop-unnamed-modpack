@@ -38,6 +38,7 @@ Clumps | Clumps-forge-1.18.2-8.0.0+15.jar | fa3a5ce1676d51a71f555d627477b2aa1ec4
 CodeChicken Lib 1.8.+ | CodeChickenLib-1.18.2-4.1.2.475-universal.jar | b2c0f29b52de1083e9221276661334224bcc2bab (sha1)
 CoFH Core | cofh_core-1.18.2-9.1.1.30.jar | 1350b90a6ede91a9b3794f9a0d4fc3d224a050ff (sha1)
 Comforts (Forge) | comforts-forge-1.18.2-5.0.0.5.jar | f825b9a4742561423fc28f1c7798fdb5885fbc86 (sha1)
+Compact Machines | compactmachines-4.5.0.jar | ade4d96f9a6e6718dfee9d3e427a0dfbc68b0229 (sha1)
 Configured | configured-2.0.0-1.18.2.jar | dd68539ae7e31a39d4b19dea26acf8cef776efee (sha1)
 Construction Wand | constructionwand-1.18.2-2.7.jar | 2a8098dbc632fdf9391f9f1188ecd83591c69fe1 (sha1)
 Controlling | Controlling-forge-1.18.2-9.0+22.jar | f30cc2d7e8568720272619b42f45950704ef1daa (sha1)
