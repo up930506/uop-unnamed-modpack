@@ -10,6 +10,7 @@ Apotheosis | Apotheosis-1.18.2-5.7.6.jar | 3b90c28eb25fc00cbf98149019c8619689965
 AppleSkin | appleskin-forge-mc1.18.2-2.4.1.jar | 6fa3d2485e3a7b416470ad5a3c708f1ce366195c (sha1)
 Applied Energistics 2 | appliedenergistics2-forge-11.6.7.jar | f4ce54da95fc6e762daa602eaf11433ee52a1c69 (sha1)
 Aquaculture 2 | Aquaculture-1.18.2-2.3.9.jar | 93ad9897e2888e8e79b4398f4e2298fc69d3c53c (sha1)
+Architect's Palette | Architects-Palette-1.18.2-1.2.0.jar | 47309f3a63b74ca573de29dfdf9346d93c954ecf (sha1)
 Artifacts | artifacts-1.18.2-4.2.0.jar | b4baf2b7d0c26b01314452ab54fdf2d2ac156e7a (sha1)
 AttributeFix | AttributeFix-Forge-1.18.2-14.0.2.jar | 33b1dc72bb681768c4faa603a73c26ebba833b41 (sha1)
 AutoRegLib | AutoRegLib-1.7-53.jar | 3e8f5e0bbf90af2555394b2f9ff704142f979465 (sha1)

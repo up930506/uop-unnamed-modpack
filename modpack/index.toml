@@ -98,6 +98,11 @@ hash = "24bd1231b7bc88e74417cea06e9b86877559ebb298820a04d92548a1479e525a"
 metafile = true
 
 [[files]]
+file = "mods/architects-palette.pw.toml"
+hash = "89cc0eefd627a380274c0dcfb5739fb0ef2b426e62276f7534ba7895e57d74e1"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "f79243f3241bb965b2312fba4278feb6c3817affb5fc4f0574482b8253acdb39"
 metafile = true
