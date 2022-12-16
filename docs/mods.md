@@ -6,7 +6,7 @@ Advancement Plaques | AdvancementPlaques-1.18.2-1.4.5.1.jar | b1f30856926616605c
 AE2 Things [Forge] | AE2-Things-1.0.4.jar | ddf82d5a3b2a603d69fb4599d6755ff28c362ec6 (sha1)
 AEInfinityBooster | AEInfinityBooster-1.18.2-1.1.0+9.jar | 1f915abe753d53cb425439d271c8ac212ce410e3 (sha1)
 Akashic Tome | AkashicTome-1.5-20.jar | 4aa94016e7b13dcd6fe9dc5bb6e23fa0946f36b2 (sha1)
-Apotheosis | Apotheosis-1.18.2-5.7.6.jar | 3b90c28eb25fc00cbf98149019c8619689965e1a (sha1)
+Apotheosis | Apotheosis-1.18.2-5.7.7.jar | 0ae79822f8c18a4beed4ea13fb0c13341fe63565 (sha1)
 AppleSkin | appleskin-forge-mc1.18.2-2.4.1.jar | 6fa3d2485e3a7b416470ad5a3c708f1ce366195c (sha1)
 Applied Energistics 2 | appliedenergistics2-forge-11.6.7.jar | f4ce54da95fc6e762daa602eaf11433ee52a1c69 (sha1)
 Aquaculture 2 | Aquaculture-1.18.2-2.3.9.jar | 93ad9897e2888e8e79b4398f4e2298fc69d3c53c (sha1)

@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "033d92c7690c3e8f2dd94756f4028bfe27ec5d4db30c1a5cf95c4a997e0d80b5"
+hash = "bf3d5e86acf5331a02cbf6d9717c94c55fd4fc675f8690a51cd13f8ba499e8b6"
 metafile = true
 
 [[files]]
