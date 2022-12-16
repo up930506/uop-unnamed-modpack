@@ -22,7 +22,7 @@ hash = "d174550d87cce5e9d7be5904a19d891961ac7d61e721c84d0764cfe1ef542c99"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "0ef23181c0f887a66eb588f9976b9aa3a756adf6903beb6ac9be9f62fd10d268"
+hash = "5d27fbd46784008179c7de3bcfbae6c5457f7b0f2a3d98306c626f6a270b6a6f"
 
 [[files]]
 file = "config/darkmodeeverywhere-client.toml"
@@ -50,7 +50,7 @@ hash = "4c68ab99c906dd487952f61bf33c0635039a8bbff3f02099e3cd8272fe51b4aa"
 
 [[files]]
 file = "config/fancymenu/customization/title.txt"
-hash = "d7539df291f8db6857f4f9915c34de3b7c881d2666e76052d4c2b25e8872f8f2"
+hash = "3f946bd4106e45875207c34ffad15e7701f72c65d3e4f1cd3de6d9de935718bc"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"

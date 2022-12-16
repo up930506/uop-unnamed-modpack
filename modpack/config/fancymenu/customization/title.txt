@@ -236,7 +236,7 @@ customization {
   action = addbutton
   y = -61
   label = Play now
-  value = 127.0.0.1
+  value = uopmc.net
   height = 20
 }
 

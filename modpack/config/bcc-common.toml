@@ -7,7 +7,7 @@
 	#The name of the modpack
 	modpackName = "The Pandora's Box Pack"
 	#The version of the modpack
-	modpackVersion = "v0.0.3"
+	modpackVersion = "v0.1.5"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false
