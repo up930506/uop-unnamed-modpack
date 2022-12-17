@@ -81,6 +81,7 @@ Goblin Traders | goblintraders-1.8.0-1.18.2.jar | bbd8dbb5ea64ba3c945b4560e75acb
 Hex Casting | hexcasting-forge-1.18.2-0.9.6.jar | 7bd729dcd8fb458b8560b73c3be8dc6485f42246 (sha1)
 Iceberg | Iceberg-1.18.2-forge-1.0.49.jar | fc6b0c3a8f40318ae3518f057de8382364e72218 (sha1)
 Immersive Engineering | ImmersiveEngineering-1.18.2-8.2.2-154.jar | 355df63a3a049b2573c9309d59a770d21de3ec66 (sha1)
+Inventory Sorter | inventorysorter-1.18.2-19.0.4.jar | 9bfb4439ca7d41638c7192b2e77237970d40c8fc (sha1)
 Iron Chests | ironchest-1.18.2-13.2.11.jar | cff2b97673a833704d8f28ea46dbc8d6eaac92a3 (sha1)
 Iron Furnaces [FORGE] | ironfurnaces-1.18.2-3.3.2.jar | 6b927f99b18123aae0cccf750025962b57170cc6 (sha1)
 Item Collectors | itemcollectors-1.1.5-mc1.18.jar | a57ed02fbd755b3b64ea868df257285a02924dff (sha1)
