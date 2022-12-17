@@ -73,6 +73,11 @@ hash = "6049ce25c35da23208c19374bc6870064144df1f7aabac29f0115af03c8ad9e8"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
+metafile = true
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "c55d8087b3a790472313b0e366fb016acea13dad23b4dfac869422047e7150d0"
 metafile = true
@@ -410,6 +415,16 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "5a857e5ab8720ccd0ec879a6812f25f273a63c2e6af04958da7bff202dd7dd7c"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "3192433f940257c03b21f7c13cdf0af8195c797c08d3f762da5eaf102a061cbc"
 metafile = true
 
 [[files]]
